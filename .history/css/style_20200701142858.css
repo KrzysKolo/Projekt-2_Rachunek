@@ -1,0 +1,19 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+body {
+  font-size: 16px;
+  color: #000000;
+  font-family: "Fontdiner Swanky", cursive;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.wrapper {
+  width: 800px;
+  box-shadow: 2px 0 10px #000;
+}

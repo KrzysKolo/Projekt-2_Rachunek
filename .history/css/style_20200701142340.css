@@ -1,0 +1,16 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+body {
+  font-size: 16px;
+  color: #fff;
+  font-size: "Fontdiner Swanky", cursive;
+}
+.wrapper {
+  width: 800px;
+  box-shadow: 2px 0 10px #000;
+}
