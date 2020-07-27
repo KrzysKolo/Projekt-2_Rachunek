@@ -1,2 +1,2 @@
-# Projekt2-Rachunek
-<a href="https://krzyskolo.github.io/Projekt2-Rachunek/">Rachunek</a>
+# Projekt-2_Rachunek
+<a href="https://krzyskolo.github.io/Projekt-2_Rachunek/">Rachunek</a>
